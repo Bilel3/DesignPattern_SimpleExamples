@@ -1,4 +1,4 @@
-package p1.designPattern.façade;
+package p1.designPattern.abstractfactory;
 
 public class Rectangle implements Shape {
 

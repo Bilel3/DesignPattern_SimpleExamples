@@ -5,7 +5,7 @@ public class FactoryMain {
 		ShapeFactory sf = new ShapeFactory();
 		Shape shape1 = sf.getShape("CIRCLE");
 		shape1.draw();
-		Shape shape2 = sf.getShape("Square");
+		Shape shape2 = sf.getShape("RoundedSquare");
 		shape2.draw();
 		Shape shape3 = sf.getShape("RECTANGLE");
 		shape3.draw();
